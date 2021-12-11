@@ -1,1 +1,1 @@
-<img src= "./img/nodeappjs.png">
+<img src= "./img/readme.png">
