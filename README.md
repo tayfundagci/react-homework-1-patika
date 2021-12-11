@@ -1,1 +1,1 @@
-![image](/img/nodeappjs.png)
+![image] <img src= "./img/nodeappjs.png">
