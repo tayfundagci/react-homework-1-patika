@@ -1,1 +1,1 @@
-<img src= "./img/readme.png">
+![Screenshot](./img/readme.png)
