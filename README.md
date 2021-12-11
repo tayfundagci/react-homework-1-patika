@@ -1,1 +1,1 @@
-![Screenshot](./img/readme.png)
+![Screenshot](readme.png)
